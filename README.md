@@ -1,7 +1,7 @@
 # Habit-Tracker-Backend:
  This is Basic Habit Tracking Application for Users to Track Daily Habits for a week and this file is Readme for this Web Application.
  It's a Web App built with Node.js and EJS. It allows users to define habits and track their progress on a daily basis for a week.
-## Contributed By:- Arpan Choudhury
+
 ![image](https://github.com/DataWorker2001/Habit-Tracker-Backend/assets/123379937/5c854218-a61c-4142-8715-1720fa48de2a)
 
 ![image](https://github.com/DataWorker2001/Habit-Tracker-Backend/assets/123379937/bc3a1896-f2fa-4335-a0cc-352a87cb973b)
@@ -86,6 +86,4 @@ This project is licensed under the GNU General Public License.<br/>
 ## Acknowledgements<br/>
 The libraries and resources that you used in the development of this project are Visual Studio Code and MongoDB Cloud database finally with render for deployment.<br/>
 
-## Contact<br/>
-1. Email - arpanchoudhury.iitjee@gmail.com<br/>
-2. Project Link: https://github.com/DataWorker2001/Habit-Tracker-Backend.<br/>
+
